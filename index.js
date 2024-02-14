@@ -82,6 +82,7 @@ yesBtn.addEventListener('click',function () {
     </main>
 
 </body>`;
+new Memorama();
 });
     
 const noBtn =  document.querySelector('#noBtn')
@@ -103,7 +104,7 @@ noBtn.addEventListener('click', function(){
 // 102
 // 103
 
-class Sk {
+class Memorama {
 
     constructor() {
 
