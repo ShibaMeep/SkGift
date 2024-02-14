@@ -246,7 +246,7 @@ class Memorama {
 
         if (this.maxPairNumber == this.foundPairs) {
 
-            alert("¡Ganaste!");
+            alert("SaleTerryBro?,HoyVieneTerry,HoyEsNocheDeTerry,Espero hayas disfrutado la búsqueda :D");
             this.setNewGame();
 
         }
