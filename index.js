@@ -2,6 +2,7 @@ const yesBtn = document.querySelector('#yesBtn');
 
 yesBtn.addEventListener('click',function () {
     alert('Pues a jugar :)')
+    window.open("https://app.mediafire.com/myfiles")
 });
 const noBtn =  document.querySelector('#noBtn')
 
