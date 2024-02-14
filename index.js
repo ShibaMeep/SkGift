@@ -24,7 +24,7 @@ yesBtn.addEventListener('click',function () {
             <!-- Agrega aquí las figuras y cartas -->
         </main>
 
-        <script src="index.js"></script>
+        <script src="./js/script.js"></script>
     </body>
     </html>
 `;
