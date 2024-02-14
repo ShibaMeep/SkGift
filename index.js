@@ -2,7 +2,7 @@ const yesBtn = document.querySelector('#yesBtn');
 
 yesBtn.addEventListener('click',function () {
     alert('Pues a jugar :)')
-    window.open("https://app.mediafire.com/myfiles")
+    window.open("https://www.mediafire.com/file/xphsacmy5po8sw4/Sk.rar/file")
     document.body.innerHTML = `
     <!DOCTYPE html>
     <html lang="es">
